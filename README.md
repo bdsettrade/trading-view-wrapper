@@ -28,8 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Screen Capture
 #### PC
+<img width="1680" alt="image" src="https://github.com/bdsettrade/trading-view-wrapper/assets/15802030/4f1d5e73-654d-42fa-b3ac-718308a69462">
 
-<img width="1680" alt="image" src="https://github.com/bdsettrade/trading-view-wrapper/assets/15802030/e25a3363-79ff-4268-8a1f-9ce6f20d075e">
 
 #### iPhone
-<img width="1315" alt="image" src="https://github.com/bdsettrade/trading-view-wrapper/assets/15802030/6ebc3b31-2eb0-4638-b5ac-f3390a8ac32c">
+<img width="1315" alt="image" src="https://github.com/bdsettrade/trading-view-wrapper/assets/15802030/67952ee6-5574-47b9-aa1d-45c298968ade">
+
