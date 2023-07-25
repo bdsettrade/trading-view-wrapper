@@ -49,7 +49,6 @@ export class AppComponent implements OnInit {
       locale: 'en',
       disabled_features: [
         'symbol_info',
-        'header_widget',
         'go_to_date',
         'timezone_menu',
         'border_around_the_chart',
