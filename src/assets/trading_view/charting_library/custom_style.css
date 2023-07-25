@@ -1,0 +1,42 @@
+.theme-dark:root {
+    --tv-color-platform-background: rgb(54, 54, 61);
+    --tv-color-pane-background: rgb(54, 54, 61);
+    --tv-color-toolbar-button-background-hover: rgb(230, 234, 239);
+    --tv-color-toolbar-button-background-expanded: rgb(230, 234, 239);
+    --tv-color-toolbar-button-background-active: rgb(230, 234, 239);
+    --tv-color-toolbar-button-background-active-hover: rgb(230, 234, 239);
+    --tv-color-toolbar-button-text: rgb(216, 216, 216);
+    --tv-color-toolbar-button-text-hover: rgb(74, 74, 74);
+    --tv-color-toolbar-button-text-active: rgb(21, 146, 230);
+    --tv-color-toolbar-button-text-active-hover: rgb(21, 146, 230);
+    --tv-color-toolbar-toggle-button-background-active: rgb(59, 179, 227);
+    --tv-color-toolbar-toggle-button-background-active-hover: rgb(59, 179, 227);
+
+    --tv-color-popup-background: rgb(54, 54, 61);
+    --tv-color-popup-element-text: rgb(255, 255, 255);
+    --tv-color-popup-element-text-hover: rgb(19, 23, 34);
+    --tv-color-popup-element-background-hover: rgb(235, 247, 252);
+    --tv-color-popup-element-divider-background: rgb(251, 223, 244);
+    --tv-color-popup-element-hint-text: rgb(180, 180, 180);
+    --tv-color-popup-element-text-active: rgb(255, 255, 255);
+    --tv-color-popup-element-background-active: rgb(55, 166, 239);
+    --tv-color-popup-element-toolbox-text: rgba(157, 178, 189, 0.7);
+    --tv-color-popup-element-toolbox-text-hover: rgba(157, 178, 189, 1);
+    --tv-color-popup-element-toolbox-text-active-hover: rgb(255, 255, 255);
+    --tv-color-popup-element-toolbox-background-hover: transparent;
+    --tv-color-popup-element-toolbox-background-active-hover: transparent;
+}
+
+html.theme-dark .dialog-CPGBbsmc {
+    background-color: #212529;
+}
+
+.timezone-BXXUwft2,
+.separator-yDfG9Ccu {
+    visibility: hidden !important;
+}
+
+/* force show date range for small display */
+.timezone-BXXUwft2 {
+    width: 70px;
+}
